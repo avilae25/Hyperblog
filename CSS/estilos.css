@@ -22,7 +22,12 @@ body {
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em
+}
+
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline {
@@ -31,14 +36,3 @@ body {
     font-size: 0.8em;
 }
 
-#footer {
-    background: #777;
-    justify-content: center;
-    align-items: center;
-    width:  70%;
-    color: white;
-    text-align: center;
-    padding: 0.5em;
-    border: 1px solid #DDD;
-    margin: 0 auto;
-}
